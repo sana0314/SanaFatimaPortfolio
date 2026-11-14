@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#17251e"/>
+      <stop offset="1" stop-color="#0b120e"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#38b982"/>
+      <stop offset="1" stop-color="#8ee0b6"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="500" fill="url(#background)"/>
+  <rect x="34" y="34" width="832" height="432" rx="22" fill="#101914" stroke="#30483a" stroke-width="2"/>
+  <rect x="34" y="34" width="174" height="432" rx="22" fill="#14211a"/>
+  <path d="M186 34h22v432h-22z" fill="#14211a"/>
+  <circle cx="73" cy="79" r="20" fill="#38b982"/>
+  <path d="M61 79h24M73 67v24" stroke="#0b120e" stroke-width="5" stroke-linecap="round"/>
+  <text x="105" y="86" fill="#f2f5f3" font-family="Arial, sans-serif" font-size="18" font-weight="700">LEARNHUB</text>
+  <rect x="54" y="126" width="132" height="38" rx="10" fill="#26392e"/>
+  <rect x="68" y="139" width="15" height="12" rx="3" fill="#38b982"/>
+  <rect x="93" y="140" width="68" height="9" rx="4" fill="#dbe7df"/>
+  <g fill="#819087">
+    <rect x="68" y="192" width="15" height="12" rx="3"/>
+    <rect x="93" y="194" width="62" height="8" rx="4"/>
+    <rect x="68" y="239" width="15" height="12" rx="3"/>
+    <rect x="93" y="241" width="73" height="8" rx="4"/>
+    <rect x="68" y="286" width="15" height="12" rx="3"/>
+    <rect x="93" y="288" width="52" height="8" rx="4"/>
+  </g>
+  <text x="244" y="91" fill="#f2f5f3" font-family="Arial, sans-serif" font-size="24" font-weight="700">My Courses</text>
+  <text x="244" y="119" fill="#9ca9a2" font-family="Arial, sans-serif" font-size="13">Continue learning where you left off</text>
+  <rect x="244" y="145" width="574" height="44" rx="12" fill="#19251e" stroke="#30483a"/>
+  <circle cx="268" cy="167" r="7" fill="#38b982"/>
+  <rect x="287" y="163" width="120" height="8" rx="4" fill="#718078"/>
+  <rect x="748" y="157" width="52" height="20" rx="10" fill="#203d2d"/>
+  <text x="761" y="171" fill="#8ee0b6" font-family="Arial, sans-serif" font-size="10">2 / 5</text>
+  <g>
+    <rect x="244" y="211" width="178" height="210" rx="14" fill="#17231c" stroke="#30483a"/>
+    <rect x="244" y="211" width="178" height="100" rx="14" fill="#234533"/>
+    <path d="M244 297h178v14H244z" fill="#234533"/>
+    <circle cx="333" cy="261" r="27" fill="#38b982" opacity=".85"/>
+    <path d="M320 261h26M333 248v26" stroke="#102117" stroke-width="5" stroke-linecap="round"/>
+    <text x="260" y="340" fill="#f2f5f3" font-family="Arial, sans-serif" font-size="14" font-weight="700">Web Development</text>
+    <text x="260" y="363" fill="#9ca9a2" font-family="Arial, sans-serif" font-size="11">12 lessons</text>
+    <rect x="260" y="384" width="144" height="7" rx="4" fill="#2a3a30"/>
+    <rect x="260" y="384" width="91" height="7" rx="4" fill="url(#accent)"/>
+  </g>
+  <g>
+    <rect x="442" y="211" width="178" height="210" rx="14" fill="#17231c" stroke="#30483a"/>
+    <rect x="442" y="211" width="178" height="100" rx="14" fill="#283d3a"/>
+    <path d="M442 297h178v14H442z" fill="#283d3a"/>
+    <circle cx="531" cy="261" r="27" fill="#619b80" opacity=".9"/>
+    <path d="M518 261h26M531 248v26" stroke="#102117" stroke-width="5" stroke-linecap="round"/>
+    <text x="458" y="340" fill="#f2f5f3" font-family="Arial, sans-serif" font-size="14" font-weight="700">Database Basics</text>
+    <text x="458" y="363" fill="#9ca9a2" font-family="Arial, sans-serif" font-size="11">8 lessons</text>
+    <rect x="458" y="384" width="144" height="7" rx="4" fill="#2a3a30"/>
+    <rect x="458" y="384" width="65" height="7" rx="4" fill="url(#accent)"/>
+  </g>
+  <g>
+    <rect x="640" y="211" width="178" height="210" rx="14" fill="#17231c" stroke="#30483a"/>
+    <rect x="640" y="211" width="178" height="100" rx="14" fill="#303a2b"/>
+    <path d="M640 297h178v14H640z" fill="#303a2b"/>
+    <circle cx="729" cy="261" r="27" fill="#a2a862" opacity=".9"/>
+    <path d="M716 261h26M729 248v26" stroke="#172117" stroke-width="5" stroke-linecap="round"/>
+    <text x="656" y="340" fill="#f2f5f3" font-family="Arial, sans-serif" font-size="14" font-weight="700">API Integration</text>
+    <text x="656" y="363" fill="#9ca9a2" font-family="Arial, sans-serif" font-size="11">10 lessons</text>
+    <rect x="656" y="384" width="144" height="7" rx="4" fill="#2a3a30"/>
+    <rect x="656" y="384" width="110" height="7" rx="4" fill="url(#accent)"/>
+  </g>
+</svg>
